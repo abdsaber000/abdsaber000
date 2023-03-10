@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdulrahman Saber
-- 👀 I’m interested in mathematics, programming, logic, physics, problem solving, learning languages.
+- 👀 I’m interested in mathematics, programming, problem solving.
 - 🌱 I’m currently learning algorithms and data structure
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on an open source project.
 - 📫 How to reach me at abdsaber000@gmail.com
 
 <!---
