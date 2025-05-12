@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Abdulrahman Saber
 - 👀 I’m interested in mathematics, programming, problem solving.
-- 🌱 I’m currently learning Embedded Systems.
 - 💞️ I’m looking to collaborate on an open source project.
 - 📫 How to reach me at abdsaber000@gmail.com
 
